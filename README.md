@@ -5,7 +5,8 @@
 We recognized that today's teens face unprecedented career complexity—new industries emerging overnight, traditional paths evolving rapidly, and endless possibilities that can feel overwhelming rather than exciting. Meanwhile, school counselors are overloaded, career resources are outdated, and parents often lack insight into modern career landscapes.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/aa114713-7f62-465b-bfa0-09886d9a86dd" width="500" alt="What is FuturePath">
+  <img src="![what is futurepath](https://github.com/user-attachments/assets/624def16-a104-4b5e-b732-b5c8ae9578fd)
+" width="500" alt="What is FuturePath">
 </p>
 
 ---
